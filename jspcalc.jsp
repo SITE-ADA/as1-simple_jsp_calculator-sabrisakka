@@ -35,24 +35,6 @@
      	throw new RuntimeException ("Unknown operator");
 
      }
-   /*
-        if ("+".equals(op_code))
-        {
-            tot = num1 + num2;
-        }
-        else  if ("-".equals(op_code))
-        {
-            tot = num1 - num2;
-        }
-         else  if ("*".equals(op_code))
-        {
-            tot = num1 * num2;
-        }
-        else  if ("/".equals(op_code))
-        {
-            tot = num1 / num2;
-        }
-*/
         Integer result = new  Integer(tot);
         out.println(result.toString());    
         
