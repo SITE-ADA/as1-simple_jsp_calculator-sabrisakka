@@ -6,8 +6,8 @@
 	<title>My calculator</title>
 </head>
 <body>
-	<h1>My Web-Calculator</h1>
 	<center>
+		<h1>My Web-Calculator</h1>
 	<form action="jspcalc.jsp" method="post">
 		Enter Number 1:<br><input type="text" name="num1"><br>
 		Enter op (+-*/):<br><input type="text" name="op"><br>
